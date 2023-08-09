@@ -10,21 +10,4 @@
 
 
 Vidéo tuto ici : lien de la vidéo
-
-
-
-
-Discord pour aide : https://discord.gg/j8ENwKF
-
-
-
-
-English Version here : in 1 week
-
-  ____              ____                    _      _ 
- | __ )   _   _    / ___|    ___    _   _  | | __ (_)
- |  _ \  | | | |   \___ \   / _ \  | | | | | |/ / | |
- | |_) | | |_| |    ___) | | (_) | | |_| | |   <  | |
- |____/   \__, |   |____/   \___/   \__,_| |_|\_\ |_|
-          |___/                                      
                                                                         
